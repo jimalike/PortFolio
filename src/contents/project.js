@@ -5,7 +5,7 @@ import Xuno from '../assets/Xuno.png'
 import AuroraStar from '../assets/AuroraStar.png'
 import Banana from '../assets/Banana.png'
 import kraba from '../assets/kraba.png'
-import drone from '../assets/drone.png'
+import drone from '../assets/Drone.png'
 export const data = [
     {
         date:"",
